@@ -19,4 +19,4 @@ The result shows how the original message compares to what the receiver actually
 ## Background
 
 Built to experiment with and better understand the Physical Layer of the OSI model
-— specifically how data corruption and signal interference affect message transmission at the bit level.                                                                                                                                                                                                    
+— specifically how data corruption and signal interference affect message transmission at the bit level.
