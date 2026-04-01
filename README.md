@@ -12,9 +12,9 @@ The result shows how the original message compares to what the receiver actually
 ## How to Run
 
 1. Open the project in your Java IDE
-2. Run "Main.java"
+2. Run `Main.java`
 3. Type any message in the console and press Enter
-4. Type "FINISH" to exit the program
+4. Type `FINISH` to exit the program
 
 ## Background
 
